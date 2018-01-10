@@ -1,0 +1,18 @@
+.logo {
+  text-align: center;
+
+}
+
+.boutons {
+  display: inline-block;
+}
+
+.english {
+  text-align: center;
+}
+
+.haut {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
